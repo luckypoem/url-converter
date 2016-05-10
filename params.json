@@ -1,0 +1,6 @@
+{
+  "name": "Urlconvert",
+  "tagline": "",
+  "body": "# urlConvert\r\n\r\n* 2016-02-14 16:28:21\r\n\r\n使用Python3.5.1编写\r\n\r\n暂不支持中文\r\n\r\n支持迅雷，快车，QQ旋风和真实地址之间的转换\r\n\r\n输入以上四种地址的其中一个，会转换出对应的其他三种\r\n\r\n* 2016-02-28 11:10:24\r\n\r\n增加了对中文的支持\r\n\r\n使用方法如下：![urlConvert](http://7xtwly.com1.z0.glb.clouddn.com/urlConvert.png)\r\n\r\n* 2016-03-15 22:37:02\r\n\r\n2.1版本更新, 支持了使用 GBK 编码的链接解码",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
