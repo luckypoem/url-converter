@@ -24,8 +24,8 @@
     
     重写了命令行版本, 新增了地址错误提示功能.
     
-    ![url_converter_cmd](url_converter_cmd.png)   
+    ![url_converter_cmd](http://7xtwly.com1.z0.glb.clouddn.com/url_converter_cmd.png)   
     
     增加了图形界面的版本, 就是有点简陋 ಠ౪ಠ.
     
-    ![url_converter_ui](url_converter_ui.png)
+    ![url_converter_ui](http://7xtwly.com1.z0.glb.clouddn.com/url_converter_ui.png)
